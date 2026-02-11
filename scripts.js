@@ -55,6 +55,7 @@ function expenseAdd(newExpense) {
     expenseName.textContent = newExpense.expense;
 
     expenseCategory = document.createElement("span");
+    expenseCategory.textContent = newExpense.category_name;
 
     expenseInfo.append(expenseName, expenseCategory);
 
