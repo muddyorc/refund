@@ -1,6 +1,6 @@
 # Refund
 
-![Preview do projeto](./assets/imagem_projeto.png)  
+![Preview do projeto](./img/imagem_projeto.png)  
 _Preview da interface do sistema de reembolso._
 
 Projeto desenvolvido como parte do curso **Full-Stack da Rocketseat**, com foco na aplicação prática de **JavaScript**, integrando lógica de programação, manipulação do DOM e gerenciamento de estados para construção de um sistema de reembolso funcional.
